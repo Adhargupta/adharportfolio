@@ -89,7 +89,7 @@ function Hero() {
                 icon: Github, href: "https://github.com/Adhargupta"
                 },
                 {
-                icon: Linkedin, href: "https://www.linkedin.com/in/adhar-gupta-3b0946394/"
+                icon: Linkedin, href: "https://www.linkedin.com/in/adhar-gupta-15a9a334b"
                 },
                 {
                 icon: Mail, href: "mailto:adhargpt@gmail.com"
