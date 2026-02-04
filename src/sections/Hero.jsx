@@ -76,8 +76,10 @@ function Hero() {
               </Button>
 
               <AnimatedBorderButton>
-                <Download className="w-5 h-5" />
-                About Me
+                {/* <Download className="w-5 h-5" /> */}
+                <a href="#about">
+                  About Me
+                </a>
               </AnimatedBorderButton>
             </div>
 
