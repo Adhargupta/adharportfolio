@@ -3,7 +3,7 @@ import { Github, Linkedin, Twitter, Heart, Mail } from "lucide-react";
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/Adhargupta", label: "GitHub" },
-  { icon: Linkedin, href: "https://www.linkedin.com/in/adhar-gupta-3b0946394/", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/adhar-gupta-15a9a334b", label: "LinkedIn" },
   { icon: Mail, href: "mailto:adhargpt@gmail.com", label: "Mail" },
 ];
 
