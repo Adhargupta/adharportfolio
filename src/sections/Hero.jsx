@@ -77,7 +77,7 @@ function Hero() {
 
               <AnimatedBorderButton>
                 <Download className="w-5 h-5" />
-                Download CV
+                About Me
               </AnimatedBorderButton>
             </div>
 
